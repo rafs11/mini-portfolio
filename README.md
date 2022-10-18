@@ -1,6 +1,6 @@
 # Mini Portfólio
 
-![Imagem do mini portfólio](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e01470c1-b10e-4b8d-87b3-cd589605ac1a/Untitled.png)
+![Imagem do mini portfólio]()
 Imagem do mini portfólio
 
 - Projeto construído durante o evento do Mapadev Week do canal Dev em dobro.
